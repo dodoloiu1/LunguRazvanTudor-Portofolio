@@ -70,7 +70,7 @@ export default function Page() {
     <div>
       <Header />
       <main className="max-w-6xl mx-auto px-6">
-        <section className="py-20">
+        <section className="py-5">
           <div className="max-w-3xl">
             <h1 className="text-5xl font-light tracking-tight text-balance mb-6">Răzvan–Tudor Lungu</h1>
             <p className="text-xl text-muted-foreground mb-4 font-light">A.K.A. <span className="text-foreground font-medium">DODO</span></p>
@@ -143,7 +143,7 @@ export default function Page() {
           {/* CTA removed as requested */}
         </section>
       </main>
-      <footer className="border-t border-border/20 mt-20">
+      <footer className="border-t border-border/20 ">
         <div className="max-w-6xl mx-auto px-6 py-12">
           <div className="flex items-center justify-between">
             <p className="text-sm text-muted-foreground">© 2025 Răzvan–Tudor Lungu</p>
